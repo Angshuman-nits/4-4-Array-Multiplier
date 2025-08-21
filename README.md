@@ -16,16 +16,8 @@ The multiplication process works by:
 2. Arranging them in a grid-like **array structure**.
 3. Summing them **diagonally with adders** to produce the final output bits `z7...z0`.
 
-![Array Multiplier Diagram](482c7d1c-c35b-45fc-b019-40725d6dc21e.png)
 
-Where:
-
-* `p_ij = a_i × b_j` represents each partial product.
-* Diagonal addition with Half and Full Adders produces the final 8-bit product.
-
----
-
-## ⚡ Features
+##  Features
 
 * Hierarchical design with **Half Adder** and **Full Adder** modules.
 * Clear **array multiplication structure** for easy visualization.
@@ -34,7 +26,7 @@ Where:
 
 ---
 
-## 🛠️ Module Descriptions
+## 🛠 Module Descriptions
 
 ### 🔹 Half Adder
 
