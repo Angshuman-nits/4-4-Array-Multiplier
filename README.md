@@ -26,7 +26,7 @@ The multiplication process works by:
 
 ---
 
-## 🛠 Module Descriptions
+##  Module Descriptions
 
 ### 🔹 Half Adder
 
