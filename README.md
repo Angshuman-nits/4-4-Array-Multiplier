@@ -28,19 +28,19 @@ The multiplication process works by:
 
 ##  Module Descriptions
 
-### 🔹 Half Adder
+###  Half Adder
 
 * **Inputs:** `a`, `b`
 * **Outputs:** `sum (s0)`, `carry (c0)`
 * Performs simple binary addition of two bits.
 
-### 🔹 Full Adder
+###  Full Adder
 
 * **Inputs:** `a`, `b`, `cin`
 * **Outputs:** `sum (s0)`, `carry (c0)`
 * Adds three inputs (including carry-in), essential for diagonal summation.
 
-### 🔹 Array Multiplier (Top Module)
+###  Array Multiplier (Top Module)
 
 * **Inputs:** `A[3:0]`, `B[3:0]`
 * **Output:** `z[7:0]`
